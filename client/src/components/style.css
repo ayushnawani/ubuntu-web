@@ -1,0 +1,15 @@
+.react-contextmenu--visible {
+  background: #41403b;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.5);
+  padding: 10px 0px;
+  width: 150px;
+  z-index: 1000;
+}
+
+.react-contextmenu-item:hover {
+  background: #ed7242;
+}
+.react-contextmenu-item {
+  padding: 5px 20px;
+  font-size: 13px;
+}

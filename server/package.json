@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -r dotenv/config index.js"
+  },
+  "author": "Ayush Nawani <ayu.nawani@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "dotenv": "^8.0.0",
+    "graphql": "^14.1.1",
+    "mongoose": "^5.4.18",
+    "nodemon": "^1.18.10"
+  }
+}
