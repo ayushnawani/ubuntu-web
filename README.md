@@ -16,3 +16,7 @@ Ubuntu clone using Reactjs, Nodejs, Mongodb and GraphqQL
 - [ ] Select Tool
 - [ ] Persist position of File or Folder in desktop
 - [x] Show File or Folder in Modal
+
+## Progress
+
+![](https://github.com/ayushnawani/ubuntu-web/blob/master/demo.gif)
